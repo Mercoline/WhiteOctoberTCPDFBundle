@@ -11,6 +11,12 @@
             "email": "rich.sage@gmail.com"
         }
     ],
+    "repositories": [
+         {
+             "type": "vcs",
+             "url": "https://github.com/Mercoline/TCPDF"
+         }
+     ],
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": ">=2.0",
